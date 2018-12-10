@@ -7,7 +7,7 @@
     "update": "node_modules/.bin/webdriver-manager update",
     "test": "node_modules/.bin/protractor conf.js"
   },
-  "author": "",
+  "author": "ruslan.kurtianyk",
   "license": "ISC",
   "dependencies": {
     "protractor": "^5.4.1"
